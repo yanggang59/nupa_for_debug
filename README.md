@@ -1,6 +1,9 @@
-# ramdisk
+# nupa
+
+nupa.c works on runninglinuxkernel5.0
+
+1. will create a /dev/nupa block device
+2. will generate a /dev/uio0 for user app
 
 
-ramdisk.c runs on Linux4.xx
 
-blockdev.c runs on Linux5.15 - Linux6.x, maybe later
